@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsoleApp/1.0.0": {
+        "dependencies": {
+          "Laboration_2_ADT": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleApp.dll": {}
+        }
+      },
+      "Laboration_2_ADT/1.0.0": {
+        "runtime": {
+          "Laboration_2_ADT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Laboration_2_ADT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

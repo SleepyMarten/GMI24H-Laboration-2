@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ADT
+build_property.ProjectDir = C:\Users\rln\Högskolan Dalarna\Data och Informationshantering - GMI24H Algoritmer och mjukvarudesign\Laborationer\Laboration 2\VT21\Labb02ZipFilFrånOchMed210419kl15\Labb02v2\Labb02\ADT\

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2FV8jDKHl0sSAqz6+BSSdn88U5V11iE0loaHYXEQ8W8merLIocX/JZ0jwCvqfnLAS4sPyyCawcDNGQ0YcYIoGg==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\GitHubPublicRepos\\GMI24H\\GMI24H-Laboration-2\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Atich\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Atich\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Atich\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Atich\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

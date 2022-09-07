@@ -1,0 +1,57 @@
+C:\Users\rln\Högskolan Dalarna\Data och Informationshantering - GMI24H Algoritmer och mjukvarudesign\Laborationer\Laboration 2\VT21\Labb02ZipFilFrånOchMed210419kl15\Labb02v2\Labb02\ConsoleApp\bin\Debug\net5.0\ConsoleApp.exe
+C:\Users\rln\Högskolan Dalarna\Data och Informationshantering - GMI24H Algoritmer och mjukvarudesign\Laborationer\Laboration 2\VT21\Labb02ZipFilFrånOchMed210419kl15\Labb02v2\Labb02\ConsoleApp\bin\Debug\net5.0\ConsoleApp.deps.json
+C:\Users\rln\Högskolan Dalarna\Data och Informationshantering - GMI24H Algoritmer och mjukvarudesign\Laborationer\Laboration 2\VT21\Labb02ZipFilFrånOchMed210419kl15\Labb02v2\Labb02\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+C:\Users\rln\Högskolan Dalarna\Data och Informationshantering - GMI24H Algoritmer och mjukvarudesign\Laborationer\Laboration 2\VT21\Labb02ZipFilFrånOchMed210419kl15\Labb02v2\Labb02\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\rln\Högskolan Dalarna\Data och Informationshantering - GMI24H Algoritmer och mjukvarudesign\Laborationer\Laboration 2\VT21\Labb02ZipFilFrånOchMed210419kl15\Labb02v2\Labb02\ConsoleApp\bin\Debug\net5.0\ConsoleApp.dll
+C:\Users\rln\Högskolan Dalarna\Data och Informationshantering - GMI24H Algoritmer och mjukvarudesign\Laborationer\Laboration 2\VT21\Labb02ZipFilFrånOchMed210419kl15\Labb02v2\Labb02\ConsoleApp\bin\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\rln\Högskolan Dalarna\Data och Informationshantering - GMI24H Algoritmer och mjukvarudesign\Laborationer\Laboration 2\VT21\Labb02ZipFilFrånOchMed210419kl15\Labb02v2\Labb02\ConsoleApp\bin\Debug\net5.0\ConsoleApp.pdb
+C:\Users\rln\Högskolan Dalarna\Data och Informationshantering - GMI24H Algoritmer och mjukvarudesign\Laborationer\Laboration 2\VT21\Labb02ZipFilFrånOchMed210419kl15\Labb02v2\Labb02\ConsoleApp\bin\Debug\net5.0\Laboration_2_ADT.dll
+C:\Users\rln\Högskolan Dalarna\Data och Informationshantering - GMI24H Algoritmer och mjukvarudesign\Laborationer\Laboration 2\VT21\Labb02ZipFilFrånOchMed210419kl15\Labb02v2\Labb02\ConsoleApp\bin\Debug\net5.0\Laboration_2_ADT.pdb
+C:\Users\rln\Högskolan Dalarna\Data och Informationshantering - GMI24H Algoritmer och mjukvarudesign\Laborationer\Laboration 2\VT21\Labb02ZipFilFrånOchMed210419kl15\Labb02v2\Labb02\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\rln\Högskolan Dalarna\Data och Informationshantering - GMI24H Algoritmer och mjukvarudesign\Laborationer\Laboration 2\VT21\Labb02ZipFilFrånOchMed210419kl15\Labb02v2\Labb02\ConsoleApp\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rln\Högskolan Dalarna\Data och Informationshantering - GMI24H Algoritmer och mjukvarudesign\Laborationer\Laboration 2\VT21\Labb02ZipFilFrånOchMed210419kl15\Labb02v2\Labb02\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\rln\Högskolan Dalarna\Data och Informationshantering - GMI24H Algoritmer och mjukvarudesign\Laborationer\Laboration 2\VT21\Labb02ZipFilFrånOchMed210419kl15\Labb02v2\Labb02\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\rln\Högskolan Dalarna\Data och Informationshantering - GMI24H Algoritmer och mjukvarudesign\Laborationer\Laboration 2\VT21\Labb02ZipFilFrånOchMed210419kl15\Labb02v2\Labb02\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\rln\Högskolan Dalarna\Data och Informationshantering - GMI24H Algoritmer och mjukvarudesign\Laborationer\Laboration 2\VT21\Labb02ZipFilFrånOchMed210419kl15\Labb02v2\Labb02\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CopyComplete
+C:\Users\rln\Högskolan Dalarna\Data och Informationshantering - GMI24H Algoritmer och mjukvarudesign\Laborationer\Laboration 2\VT21\Labb02ZipFilFrånOchMed210419kl15\Labb02v2\Labb02\ConsoleApp\obj\Debug\net5.0\ConsoleApp.dll
+C:\Users\rln\Högskolan Dalarna\Data och Informationshantering - GMI24H Algoritmer och mjukvarudesign\Laborationer\Laboration 2\VT21\Labb02ZipFilFrånOchMed210419kl15\Labb02v2\Labb02\ConsoleApp\obj\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\rln\Högskolan Dalarna\Data och Informationshantering - GMI24H Algoritmer och mjukvarudesign\Laborationer\Laboration 2\VT21\Labb02ZipFilFrånOchMed210419kl15\Labb02v2\Labb02\ConsoleApp\obj\Debug\net5.0\ConsoleApp.pdb
+C:\Users\rln\Högskolan Dalarna\Data och Informationshantering - GMI24H Algoritmer och mjukvarudesign\Laborationer\Laboration 2\VT21\Labb02ZipFilFrånOchMed210419kl15\Labb02v2\Labb02\ConsoleApp\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\rln\Högskolan Dalarna\Data och Informationshantering - GMI24H Algoritmer och mjukvarudesign\Laborationer\Laboration 2\Laboration_2\ConsoleApp\bin\Debug\net5.0\ConsoleApp.exe
+C:\Users\rln\Högskolan Dalarna\Data och Informationshantering - GMI24H Algoritmer och mjukvarudesign\Laborationer\Laboration 2\Laboration_2\ConsoleApp\bin\Debug\net5.0\ConsoleApp.deps.json
+C:\Users\rln\Högskolan Dalarna\Data och Informationshantering - GMI24H Algoritmer och mjukvarudesign\Laborationer\Laboration 2\Laboration_2\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+C:\Users\rln\Högskolan Dalarna\Data och Informationshantering - GMI24H Algoritmer och mjukvarudesign\Laborationer\Laboration 2\Laboration_2\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\rln\Högskolan Dalarna\Data och Informationshantering - GMI24H Algoritmer och mjukvarudesign\Laborationer\Laboration 2\Laboration_2\ConsoleApp\bin\Debug\net5.0\ConsoleApp.dll
+C:\Users\rln\Högskolan Dalarna\Data och Informationshantering - GMI24H Algoritmer och mjukvarudesign\Laborationer\Laboration 2\Laboration_2\ConsoleApp\bin\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\rln\Högskolan Dalarna\Data och Informationshantering - GMI24H Algoritmer och mjukvarudesign\Laborationer\Laboration 2\Laboration_2\ConsoleApp\bin\Debug\net5.0\ConsoleApp.pdb
+C:\Users\rln\Högskolan Dalarna\Data och Informationshantering - GMI24H Algoritmer och mjukvarudesign\Laborationer\Laboration 2\Laboration_2\ConsoleApp\bin\Debug\net5.0\Laboration_2_ADT.dll
+C:\Users\rln\Högskolan Dalarna\Data och Informationshantering - GMI24H Algoritmer och mjukvarudesign\Laborationer\Laboration 2\Laboration_2\ConsoleApp\bin\Debug\net5.0\Laboration_2_ADT.pdb
+C:\Users\rln\Högskolan Dalarna\Data och Informationshantering - GMI24H Algoritmer och mjukvarudesign\Laborationer\Laboration 2\Laboration_2\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\rln\Högskolan Dalarna\Data och Informationshantering - GMI24H Algoritmer och mjukvarudesign\Laborationer\Laboration 2\Laboration_2\ConsoleApp\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rln\Högskolan Dalarna\Data och Informationshantering - GMI24H Algoritmer och mjukvarudesign\Laborationer\Laboration 2\Laboration_2\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\rln\Högskolan Dalarna\Data och Informationshantering - GMI24H Algoritmer och mjukvarudesign\Laborationer\Laboration 2\Laboration_2\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\rln\Högskolan Dalarna\Data och Informationshantering - GMI24H Algoritmer och mjukvarudesign\Laborationer\Laboration 2\Laboration_2\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\rln\Högskolan Dalarna\Data och Informationshantering - GMI24H Algoritmer och mjukvarudesign\Laborationer\Laboration 2\Laboration_2\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CopyComplete
+C:\Users\rln\Högskolan Dalarna\Data och Informationshantering - GMI24H Algoritmer och mjukvarudesign\Laborationer\Laboration 2\Laboration_2\ConsoleApp\obj\Debug\net5.0\ConsoleApp.dll
+C:\Users\rln\Högskolan Dalarna\Data och Informationshantering - GMI24H Algoritmer och mjukvarudesign\Laborationer\Laboration 2\Laboration_2\ConsoleApp\obj\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\rln\Högskolan Dalarna\Data och Informationshantering - GMI24H Algoritmer och mjukvarudesign\Laborationer\Laboration 2\Laboration_2\ConsoleApp\obj\Debug\net5.0\ConsoleApp.pdb
+C:\Users\rln\Högskolan Dalarna\Data och Informationshantering - GMI24H Algoritmer och mjukvarudesign\Laborationer\Laboration 2\Laboration_2\ConsoleApp\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache
+D:\Code\GitHubPublicRepos\GMI24H\GMI24H-Laboration-2\ConsoleApp\bin\Debug\net5.0\ConsoleApp.exe
+D:\Code\GitHubPublicRepos\GMI24H\GMI24H-Laboration-2\ConsoleApp\bin\Debug\net5.0\ConsoleApp.deps.json
+D:\Code\GitHubPublicRepos\GMI24H\GMI24H-Laboration-2\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+D:\Code\GitHubPublicRepos\GMI24H\GMI24H-Laboration-2\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+D:\Code\GitHubPublicRepos\GMI24H\GMI24H-Laboration-2\ConsoleApp\bin\Debug\net5.0\ConsoleApp.dll
+D:\Code\GitHubPublicRepos\GMI24H\GMI24H-Laboration-2\ConsoleApp\bin\Debug\net5.0\ConsoleApp.pdb
+D:\Code\GitHubPublicRepos\GMI24H\GMI24H-Laboration-2\ConsoleApp\bin\Debug\net5.0\Laboration_2_ADT.dll
+D:\Code\GitHubPublicRepos\GMI24H\GMI24H-Laboration-2\ConsoleApp\bin\Debug\net5.0\Laboration_2_ADT.pdb
+D:\Code\GitHubPublicRepos\GMI24H\GMI24H-Laboration-2\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.AssemblyReference.cache
+D:\Code\GitHubPublicRepos\GMI24H\GMI24H-Laboration-2\ConsoleApp\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\GitHubPublicRepos\GMI24H\GMI24H-Laboration-2\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\Code\GitHubPublicRepos\GMI24H\GMI24H-Laboration-2\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+D:\Code\GitHubPublicRepos\GMI24H\GMI24H-Laboration-2\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Code\GitHubPublicRepos\GMI24H\GMI24H-Laboration-2\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CopyComplete
+D:\Code\GitHubPublicRepos\GMI24H\GMI24H-Laboration-2\ConsoleApp\obj\Debug\net5.0\ConsoleApp.dll
+D:\Code\GitHubPublicRepos\GMI24H\GMI24H-Laboration-2\ConsoleApp\obj\Debug\net5.0\refint\ConsoleApp.dll
+D:\Code\GitHubPublicRepos\GMI24H\GMI24H-Laboration-2\ConsoleApp\obj\Debug\net5.0\ConsoleApp.pdb
+D:\Code\GitHubPublicRepos\GMI24H\GMI24H-Laboration-2\ConsoleApp\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache
+D:\Code\GitHubPublicRepos\GMI24H\GMI24H-Laboration-2\ConsoleApp\obj\Debug\net5.0\ref\ConsoleApp.dll
